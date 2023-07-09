@@ -14,7 +14,7 @@ customization {
 }
 
 customization {
-  audio_source:2bf30c34-1df9-4f75-9fae-00d3fb2d240a1688723766301 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  audio_source:7eec4f32-00dc-44c4-8471-bbb65283194f1688921290672 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
   orientation = top-left
   loop = true
   channel = music
@@ -23,6 +23,7 @@ customization {
   action = custom_layout_element:fancymenu_extension:audio_item
   actionid = 62dc4707-bf85-4345-b571-03f4d2a1c0951688723762935
   y = 42
+  audio_source:0a606e0b-57d4-461b-8ea4-c73a594f53561688921283408 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
   once_per_session = false
   height = 50
 }

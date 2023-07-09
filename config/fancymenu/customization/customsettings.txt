@@ -49,10 +49,10 @@ customization {
 
 customization {
   identifier = %id=345154%
-  orientation = top-centered
-  x = -165
+  orientation = mid-centered
+  x = -166
   action = movebutton
-  y = 70
+  y = -110
 }
 
 customization {
@@ -240,6 +240,7 @@ customization {
 
 customization {
   orientation = top-left
+  audio_source:69df25ce-8ffa-447f-8cfb-60699bcad8d51688920811823 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
   loop = true
   channel = music
   x = 16
@@ -248,12 +249,12 @@ customization {
   actionid = 07081d50-1ee8-41b3-a8a5-c52676f348661688724384854
   y = 128
   once_per_session = false
-  audio_source:24f42c6c-c5b4-4b32-9983-a5caea34c37f1688724387195 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  audio_source:cd1a7c91-fe52-4666-bbb1-3a8210a338ff1688920820074 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
   height = 50
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   copy_client_player = true
   slim = false
   auto_skin = false
@@ -264,12 +265,12 @@ customization {
   showname = false
   crouching = false
   follow_mouse = true
-  x = 308
+  x = -12
   width = 24
   parrot_left_shoulder = false
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = 7ac3d479-4c2a-434b-88fb-63156e2cb1e21688724400245
-  y = 119
+  y = -53
   playername = ForkGenesis
   bodyrotationx = 0.0
   parrot = false

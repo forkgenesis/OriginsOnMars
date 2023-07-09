@@ -1,0 +1,39 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.DisconnectedScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 92
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = d7b36617-4bff-4f2f-9797-cc0b1cc51e741688921350890
+  y = 52
+  audio_source:08d5cbf2-0fe1-4b79-a73a-5f60da89489c1688921353852 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
+  once_per_session = false
+  audio_source:66f12fdb-7a8e-4d68-a17c-70274e4ea7091688921358755 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  height = 50
+}
+
+customization {
+  identifier = %id=400522%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+

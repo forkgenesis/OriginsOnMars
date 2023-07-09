@@ -14,66 +14,10 @@ customization {
 }
 
 customization {
-  identifier = %id=345220%
   orientation = top-left
-  x = 165
-  action = movebutton
-  y = 114
-}
-
-customization {
-  identifier = %id=345220%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundnormal = fancymenu_data/button.png
-}
-
-customization {
-  identifier = %id=345286%
-  orientation = mid-centered
-  x = 5
-  action = movebutton
-  y = -22
-}
-
-customization {
-  identifier = %id=345286%
-  width = 150
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=345286%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_data/button2.png
-  backgroundnormal = fancymenu_data/button.png
-}
-
-customization {
-  identifier = %id=425308%
-  orientation = mid-centered
-  x = -75
-  action = movebutton
-  y = 0
-}
-
-customization {
-  identifier = %id=425308%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_data/button2.png
-  backgroundnormal = fancymenu_data/button.png
-}
-
-customization {
-  orientation = top-left
-  audio_source:b6c09ead-407f-4fa5-a95f-4485776214b31688727626276 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
   loop = true
+  audio_source:70250aa0-18ea-48a0-b7ba-bf0552abfa731688921038225 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
+  audio_source:4474024b-09f7-4905-ae79-37739351ca321688921044217 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
   channel = music
   x = 9
   width = 50
@@ -85,7 +29,24 @@ customization {
 }
 
 customization {
+  identifier = %id=345220%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
   identifier = %id=505220%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=345286%
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
@@ -133,6 +94,15 @@ customization {
   identifier = %id=345264%
   loopbackgroundanimations = true
   restartbackgroundanimations = false
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=425308%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
   action = setbuttontexture
   backgroundhovered = fancymenu_data/button2.png
   backgroundnormal = fancymenu_data/button.png

@@ -14,10 +14,11 @@ customization {
 }
 
 customization {
-  audio_source:cf748511-da5e-4f04-b08b-588d3e77889d1688727688317 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  audio_source:efbdebd0-5a0f-4ee9-b126-d7bf495593ea1688921191717 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
   orientation = top-left
   loop = true
   channel = music
+  audio_source:5b2782e5-98a0-42dc-8374-219d48165b4a1688921196922 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
   x = 67
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item

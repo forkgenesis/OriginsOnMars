@@ -24,12 +24,89 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  identifier = %id=376322%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=376322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Проблемы с подключением?
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = vk.me/vpgel
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -225
+  action = movebutton
+  y = -16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = Выбрать одиночество
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = sethoverlabel
+  label = Один, один...
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
 }
 
@@ -70,42 +147,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-centered
-  x = 5
-  action = movebutton
-  y = 4
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 150
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = setbuttonlabel
-  value = Проблемы с подключением?
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_data/button2.png
-  backgroundnormal = fancymenu_data/button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = sethoverlabel
-  label = vk.me/vpgel
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -141,42 +182,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -225
-  action = movebutton
-  y = -16
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 150
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = setbuttonlabel
-  value = Выбрать одиночество
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_data/button2.png
-  backgroundnormal = fancymenu_data/button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = sethoverlabel
-  label = Один, один...
-}
-
-customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = mid-centered
   x = -145
@@ -204,11 +209,6 @@ customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = sethoverlabel
   label = IC2 ещё в разработке ;(((
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
 }
 
 customization {
@@ -282,13 +282,14 @@ customization {
 customization {
   orientation = top-left
   loop = true
-  channel = music
-  x = 28
+  audio_source:c903f33f-2227-42e9-a2ea-fcf55b331f4c1688920743074 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
+  channel = master
+  x = 207
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
   actionid = c5632d03-9150-4496-9f6b-638d792d775f1688571584745
-  y = 54
-  audio_source:63ff8ebd-469e-4950-b0ec-24108b63532e1688573976276 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  y = 76
+  audio_source:e422f1d3-5fca-4b53-90cc-8035e0495fe41688920755279 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
   once_per_session = false
   height = 50
 }
@@ -312,17 +313,17 @@ customization {
 
 customization {
   path = fancymenu_data/originsonmars.png
-  orientation = top-left
-  x = 85
-  width = 465
+  orientation = top-centered
+  x = -222
+  width = 429
   action = addtexture
   actionid = bfdeb74f-d1eb-4045-b4df-93c0fa2abbd91688661806136
-  y = 29
-  height = 100
+  y = 15
+  height = 85
 }
 
 customization {
-  orientation = top-left
+  orientation = element
   basecolor = #ffff00
   shadow = true
   splashfilepath = fancymenu_data/splashes.txt
@@ -331,42 +332,43 @@ customization {
   refresh = false
   bouncing = true
   vanilla-like = false
-  x = 464
+  orientation_element = bfdeb74f-d1eb-4045-b4df-93c0fa2abbd91688661806136
+  x = 342
   actionid = d173ebca-1272-4de4-b47d-ea675f4440261688661854662
   action = addsplash
-  y = 87
+  y = 56
 }
 
 customization {
   path = fancymenu_data/memes-anime.gif
-  orientation = top-left
-  x = 285
+  orientation = bottom-centered
+  x = -53
   width = 100
   action = addtexture
   actionid = 76613fe1-6e9a-4407-a49e-fd982f1415621688727454719
-  y = 218
+  y = -99
   height = 100
 }
 
 customization {
   path = fancymenu_data/felprim.gif
-  orientation = top-left
-  x = 118
+  orientation = bottom-left
+  x = 0
   width = 157
   action = addtexture
   actionid = 23ed6dae-11ab-4042-b3ae-caa9e87b48c91688728455652
-  y = 217
+  y = -100
   height = 100
 }
 
 customization {
   path = fancymenu_data/milk.gif
-  orientation = top-left
-  x = 408
+  orientation = bottom-right
+  x = -127
   width = 100
   action = addtexture
   actionid = 5a9cb910-5036-43dc-8af8-731f962fd9731688728467841
-  y = 218
+  y = -100
   height = 100
 }
 

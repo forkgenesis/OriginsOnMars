@@ -15,8 +15,9 @@ customization {
 
 customization {
   orientation = top-left
-  audio_source:0b7b74e1-15ea-46b2-884a-039918b4e1cb1688727646786 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  audio_source:0f15e862-2426-4d6b-9f70-601b9c8a38371688921063151 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
   loop = true
+  audio_source:715d373f-39ef-485d-b20f-64ea8603006c1688921070465 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
   channel = music
   x = 0
   width = 50

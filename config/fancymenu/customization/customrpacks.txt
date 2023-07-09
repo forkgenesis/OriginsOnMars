@@ -17,13 +17,14 @@ customization {
   orientation = top-left
   loop = true
   channel = music
-  x = 0
+  audio_source:375f4339-9e4c-4e74-9fcf-ff9686c6cfb61688920929187 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  x = 30
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
   actionid = 375a2556-6f18-4555-91e7-96099f4c8baa1688727605514
-  y = 0
+  y = 24
   once_per_session = false
-  audio_source:4e65b022-7762-4ca8-a881-6bfa6be7c4131688727607337 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  audio_source:65abecf3-b1c4-489a-be2f-ddaeafa079051688920924233 = fancymenu_data/undertale.ogg;EXTERNAL_LOCAL;100;0
   height = 50
 }
 
