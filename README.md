@@ -6,6 +6,7 @@
 
 # Установка
 Справа, во вкладке "Релизы", скачайте последнюю версию модпака и засуньте в папку `.minecraft`.
+!!!! ЕСЛИ У ВАС ПАПКА `.minecraft` НЕ ИСПОЛЬЗУЕТСЯ, КИДАЙТЕ В `.tlauncher/legacy/Minecraft/game`!!!!!!!!!!
 
 ![OriginsOnMars mod list](https://i.imgur.com/UtK033x.jpg "OriginsOnMars mods")
 
