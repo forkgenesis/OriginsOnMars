@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = net.optifine.gui.GuiAnimationSettingsOF
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  audio_source:f5a93b91-0c1d-449c-8411-a2acdba225291688727994666 = fancymenu_data/coward_hebrew_sounds.ogg;EXTERNAL_LOCAL;100;0
+  loop = true
+  channel = music
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 63c8fcaf-0f7d-4e6a-8ce4-25366f03adac1688727971955
+  y = 0
+  once_per_session = false
+  height = 50
+}
+

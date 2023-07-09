@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.GenericDirtMessageScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 0
+  width = 50
+  audio_source:0d191ffb-ee44-4967-801c-25143497a2aa1688726981546 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 10832f97-81ef-4106-afcc-ab133634f09b1688726979271
+  y = 0
+  once_per_session = false
+  height = 50
+}
+

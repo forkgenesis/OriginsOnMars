@@ -1,0 +1,47 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.AccessibilityOptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  audio_source:855a662a-4368-471a-9a03-55efdaaa4c2c1688727741155 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = a0ab3d2d-88df-4170-a0fa-0875f5498ab51688727738813
+  y = 0
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  identifier = %id=345973%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=505973%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+

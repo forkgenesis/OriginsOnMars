@@ -1,0 +1,372 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = 75
+  action = movebutton
+  y = -16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Настройки
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = sethoverlabel
+  label = Надо больше {"placeholder":"maxram"} МБ RAM!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Проблемы с подключением?
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = vk.me/vpgel
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-left
+  x = 395
+  action = movebutton
+  y = -176
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = sethoverlabel
+  label = Попробуйте LOLCAT!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -225
+  action = movebutton
+  y = -16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = Выбрать одиночество
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = sethoverlabel
+  label = Один, один...
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -145
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = sethoverlabel
+  label = IC2 ещё в разработке ;(((
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 110
+  width = 421
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 7442dfb7-10e6-474b-ae53-76b57ad121431688569026583
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 4c971307-5d92-4744-8fb3-9f4774bd28fe1688569026583
+  y = 318
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 327
+  width = 312
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 1fbf4cf1-43c9-4fe1-ab4c-b6853993781a1688569026583
+  y = 340
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = b5a976de-5483-4d94-8ac3-df0045ffe0091688569026583
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 18bbaf79-cf69-4d16-bb02-28d8641e76901688569026583
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 31787fd1-0655-4780-890e-6a32b3b6cf9f1688569026583
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 28
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = c5632d03-9150-4496-9f6b-638d792d775f1688571584745
+  y = 54
+  audio_source:63ff8ebd-469e-4950-b0ec-24108b63532e1688573976276 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = joinserver;26.241.136.1:25565%btnaction_splitter_fm%
+  backgroundhovered = fancymenu_data/button2.png
+  label = На OriginsOnMars
+  loopbackgroundanimations = true
+  hoverlabel = Попасть в кроличью нору
+  x = -75
+  width = 150
+  action = addbutton
+  actionid = f5f575a7-7768-4cb5-8c3b-71dcebe93f661688659459331
+  y = -16
+  backgroundnormal = fancymenu_data/button.png
+  height = 20
+}
+
+customization {
+  path = fancymenu_data/originsonmars.png
+  orientation = top-left
+  x = 85
+  width = 465
+  action = addtexture
+  actionid = bfdeb74f-d1eb-4045-b4df-93c0fa2abbd91688661806136
+  y = 29
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = fancymenu_data/splashes.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 464
+  actionid = d173ebca-1272-4de4-b47d-ea675f4440261688661854662
+  action = addsplash
+  y = 87
+}
+
+customization {
+  path = fancymenu_data/memes-anime.gif
+  orientation = top-left
+  x = 285
+  width = 100
+  action = addtexture
+  actionid = 76613fe1-6e9a-4407-a49e-fd982f1415621688727454719
+  y = 218
+  height = 100
+}
+
+customization {
+  path = fancymenu_data/felprim.gif
+  orientation = top-left
+  x = 118
+  width = 157
+  action = addtexture
+  actionid = 23ed6dae-11ab-4042-b3ae-caa9e87b48c91688728455652
+  y = 217
+  height = 100
+}
+
+customization {
+  path = fancymenu_data/milk.gif
+  orientation = top-left
+  x = 408
+  width = 100
+  action = addtexture
+  actionid = 5a9cb910-5036-43dc-8af8-731f962fd9731688728467841
+  y = 218
+  height = 100
+}
+

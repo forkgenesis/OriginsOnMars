@@ -1,0 +1,73 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.MouseSettingsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.youtube.com/watch?v=xvFZjo5PgG0%btnaction_splitter_fm%
+  backgroundhovered = fancymenu_data/button2.png
+  label = Ого, что же делает эта кнопка?
+  loopbackgroundanimations = true
+  x = 452
+  width = 170
+  action = addbutton
+  actionid = 0d85681b-4a71-4532-9586-c15c9fc63b791688726504035
+  y = 332
+  backgroundnormal = fancymenu_data/button.png
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Мне запретили здесь кастомизировать кнопки((((
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 47
+  width = 273
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 53668841-7bb5-483b-8a70-0da6b51fa5d31688726589437
+  y = 261
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  audio_source:602a6f98-35e5-4862-be95-26ba77bb7add1688727664665 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  loop = true
+  channel = music
+  x = 23
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = abc3f1dd-1d79-4839-b6d9-0f7b23be3a2c1688727662123
+  y = 23
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  identifier = %id=400973%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+

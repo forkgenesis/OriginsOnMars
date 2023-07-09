@@ -1,0 +1,110 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraftforge.client.gui.ModListScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  audio_source:2bf30c34-1df9-4f75-9fae-00d3fb2d240a1688723766301 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 224
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 62dc4707-bf85-4345-b571-03f4d2a1c0951688723762935
+  y = 42
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  identifier = %id=576%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=576%
+  action = sethoverlabel
+  label = Я-А
+}
+
+customization {
+  identifier = %id=66%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=6948%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=7928%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=478974%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=6974%
+  action = setbuttonlabel
+  value = Открыть папку с модами
+}
+
+customization {
+  identifier = %id=6974%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=1086%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button2.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=1086%
+  action = sethoverlabel
+  label = А-Я
+}
+

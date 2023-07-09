@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.ProgressScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 89d9515b-5708-4a36-b9ea-c750fe9d4cfd1688729128169
+  y = 0
+  once_per_session = false
+  audio_source:db9acef2-6f94-4c51-aa70-e9dee139bfed1688729132185 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  height = 50
+}
+

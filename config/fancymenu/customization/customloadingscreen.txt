@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.LevelLoadingScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = d70d98b9-640d-4a43-af38-ccd674cdbaa11688726940960
+  y = 0
+  audio_source:63ab1243-d4f6-4d85-9695-39af75e44e8b1688726943066 = fancymenu_data/nowhere_to_run.ogg;EXTERNAL_LOCAL;100;0
+  once_per_session = false
+  height = 50
+}
+
