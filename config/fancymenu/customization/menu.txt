@@ -301,7 +301,7 @@ customization {
   backgroundhovered = fancymenu_data/button2.png
   label = На OriginsOnMars
   loopbackgroundanimations = true
-  hoverlabel = Попасть в кроличью нору
+  hoverlabel = Попасть в кротовую нору
   x = -75
   width = 150
   action = addbutton
