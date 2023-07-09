@@ -5,8 +5,8 @@
 Модпак создан чисто для сервера OriginsOnMars, но распространяется по лицензии Creative Commons Zero.
 
 # Установка
-Справа, во вкладке "Релизы", скачайте последнюю версию модпака и засуньте в папку `.minecraft`.
-!!!! ЕСЛИ У ВАС ПАПКА `.minecraft` НЕ ИСПОЛЬЗУЕТСЯ, КИДАЙТЕ В `.tlauncher/legacy/Minecraft/game`!!!!!!!!!!
+1) Скачать ZIP-архив последнего релиза модпака (справа, с зелёной пометкой "Latest").
+2) Извлечь файлы из архива в папку вашей игры: `.minecraft` либо `.tlauncher/legacy/Minecraft/game`.
 
 ![OriginsOnMars mod list](https://i.imgur.com/UtK033x.jpg "OriginsOnMars mods")
 
