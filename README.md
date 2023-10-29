@@ -29,7 +29,6 @@
 [Create Crafts & Additions 20230623a](https://legacy.curseforge.com/minecraft/mc-mods/createaddition/files/4605624) | Соединяет кинетическую энергию из Create с электрической | Create 0.5.1.b | Оба
 [Create Chunkloading 1.4.0](https://legacy.curseforge.com/minecraft/mc-mods/create-chunkloading/files/4571169) | Добавляет блок, прогружающий чанки около штуковин Create | Architectury API 4.11.93, Cloth Config API 6.5.102 | Оба
 [CreativeCore 2.6.17](https://modrinth.com/mod/creativecore/version/2.6.17) | Библиотека CreativeMD | | Оба
-[CullLessLeaves Reforged 1.0.5](https://legacy.curseforge.com/minecraft/mc-mods/culllessleaves-reforged/files/4457157) | Пропускает рендер внутренних слоёв листвы | | Клиент
 [Cupboard 1.5](https://legacy.curseforge.com/minecraft/mc-mods/cupboard/files/4691988) | Библиотека someaddon | | Оба
 [Curios API 5.0.9.1](https://modrinth.com/mod/curios/version/1.18.2-5.0.9.1) | Библиотека для упрощения работы со слотами | | Оба
 [Dimensional Threading Reforged (Unofficial) 1.2.8](https://legacy.curseforge.com/minecraft/mc-mods/dimensional-threading-reforged/files/4518078) | Оптимизация работы с несколькими измерениями благодаря многопоточности | | Оба
@@ -37,7 +36,6 @@
 [Dynmap 3.7 beta 1](https://legacy.curseforge.com/minecraft/mc-mods/dynmapforge/files/4765899) | Добавляет веб-страницу с динамически меняющейся картой сервера | | Сервер
 [Easier Sleeping 2.1.3](https://modrinth.com/mod/easier-sleeping/version/1.18.2-2.1.3) | Позволяет пропускать ночь, даже если спит только часть игроков | | Сервер
 [Enchanted Witchcraft 1.1.4](https://legacy.curseforge.com/minecraft/mc-mods/enchanted-witchcraft/files/4793875) | Большой магический мод, (СПОЙЛЕРЫ) | GeckoLib 3.0.57, Patchouli 71.1, SmartBrainLib 1.9, StateObserver 1.2.1 | Оба
-[Enhanced Block Entities Reforged (Unofficial) 0.8.0](https://legacy.curseforge.com/minecraft/mc-mods/enhanced-block-entities-reforged-unofficial/files/4619590) | Рендерит модели блоков вместо моделей блок-сущностей | Refogium 1.0.12a | Клиент
 [Entity Culling 1.6.1](https://modrinth.com/mod/entityculling/version/1.6.1-1.18.2) | Пропускает рендер сущностей, которые не видны игроку | | Клиент
 [Farsight 1.9](https://legacy.curseforge.com/minecraft/mc-mods/farsight/files/3810400) | Кэширует чанки в клиенте, позволяя видеть дальше, чем дальность прорисовки сервера | Cupboard 1.5 | Клиент
 [FastFurnace 6.0.3](https://legacy.curseforge.com/minecraft/mc-mods/fastfurnace/files/3717883) | Переписывает логику печей, снижая их нагрузку на сервер | Placebo 6.6.7 | Сервер
