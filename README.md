@@ -9,7 +9,7 @@
 При повторной установке удалить файлы с прошлой установки! 
 
 #### Полный список модов в самом низу!
-[OriginsOnMars mod showcase](https://i.imgur.com/foLgale.jpg)
+![OriginsOnMars mod showcase](https://i.imgur.com/foLgale.jpg)
 
 # Список модов
 Название | Описание | Зависимости | Сторона
