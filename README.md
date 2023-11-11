@@ -32,6 +32,7 @@
 [Cupboard 1.5](https://legacy.curseforge.com/minecraft/mc-mods/cupboard/files/4691988) | Библиотека someaddon | | Оба
 [Curios API 5.0.9.1](https://modrinth.com/mod/curios/version/1.18.2-5.0.9.1) | Библиотека для упрощения работы со слотами | | Оба
 [Dimensional Threading Reforged (Unofficial) 1.2.8](https://legacy.curseforge.com/minecraft/mc-mods/dimensional-threading-reforged/files/4518078) | Оптимизация работы с несколькими измерениями благодаря многопоточности | | Оба
+[Drink Beer 2.3.5](https://legacy.curseforge.com/minecraft/mc-mods/drink-beer-forge/files/3571682) | Пиво | | Оба
 [Dynamic View 2.8](https://legacy.curseforge.com/minecraft/mc-mods/dynamic-view/files/3814624) | Динамически изменяет дальность прорисовки чанков и сущностей в зависимости от нагрузки на сервер | | Сервер
 [Dynmap 3.7 beta 1](https://legacy.curseforge.com/minecraft/mc-mods/dynmapforge/files/4765899) | Добавляет веб-страницу с динамически меняющейся картой сервера | | Сервер
 [Easier Sleeping 2.1.3](https://modrinth.com/mod/easier-sleeping/version/1.18.2-2.1.3) | Позволяет пропускать ночь, даже если спит только часть игроков | | Сервер
@@ -49,6 +50,7 @@ Fan-Made Discs 2.5.2 | Добавляет кастомные музыкальн�
 [ImmediatelyFast Reforged (Unofficial) 1.1.10](https://legacy.curseforge.com/minecraft/mc-mods/immediatelyfast-reforged/files/4447910) | Оптимизирует весь мгновенный рендер, имплементируя кастомный графический буфер | | Клиент
 Industrial_ B3.99 | Технический мод с мемами | | Оба
 [Just Enough Resources 0.14.2.206](https://modrinth.com/mod/just-enough-resources-jer/version/0.14.2.206) | Добавляет в REI информацию о рудах| REI 8.3.667 | Оба
+[Just Enough Keg 3.0.1](https://legacy.curseforge.com/minecraft/mc-mods/just-enough-keg/files/3728454) | Аддон на JEI для Drink Beer | Drink Beer 2.3.5, REI 8.3.667 | Оба
 [Just Zoom 1.0.2-1](https://modrinth.com/mod/just-zoom/version/1.0.2-1-1.18.2-forge) | Приближение на кнопку (Z по умолчанию) | Konkrete 1.6.1 | Клиент
 [Konkrete 1.6.1](https://modrinth.com/mod/konkrete/version/1.6.1-1.18-1.18.2-forge) | Библиотека для модов Keksuccino | | Клиент
 [Lazy DataFixerUpper 1.0](https://legacy.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3544496) | Небольшой мод для оптимизации DataFixerUpper | | Оба
