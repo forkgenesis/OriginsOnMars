@@ -42,6 +42,8 @@
 [Embeddium 0.2.17](https://modrinth.com/mod/embeddium/version/0.2.17+mc1.18.2) | Форк Sodium - обновлённого графического движка Minecraft | | Клиент
 [Embeddium++ 1.1.0](https://modrinth.com/mod/embeddiumplus/version/1.18.2-v1.1.0) | Дополнения к Embeddium | Embeddium 0.2.17 | Клиент
 [Enchanted Witchcraft 1.1.4](https://legacy.curseforge.com/minecraft/mc-mods/enchanted-witchcraft/files/4793875) | Большой магический мод, (СПОЙЛЕРЫ) | GeckoLib 3.0.57, Patchouli 71.1, SmartBrainLib 1.9, StateObserver 1.2.1 | Оба
+[Entity Model Features 1.1.0](https://modrinth.com/mod/entity-model-features/version/1.1.0) | Поддержка моделей формата Optifine | Entity Texture Features 4.6.1 | Клиент
+[Entity Texture Features 4.6.1](https://modrinth.com/mod/entitytexturefeatures/version/4.6.1) | Поддержка текстур формата Optifine | | Клиент
 [FastFurnace 6.0.3](https://legacy.curseforge.com/minecraft/mc-mods/fastfurnace/files/3717883) | Переписывает логику печей, снижая их нагрузку на сервер | Placebo 6.6.7 | Сервер
 [Fastload 3.4.0](https://legacy.curseforge.com/minecraft/mc-mods/fastload/files/4706140) | Улучшает механизм генерации мира | | Оба
 [FastSuite 3.0.2](https://legacy.curseforge.com/minecraft/mc-mods/fastsuite/files/3755834) | Позволяет серверу быстрее сопоставлять рецепты, используя многопоточность | Placebo 6.6.7 | Сервер
