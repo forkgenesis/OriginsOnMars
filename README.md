@@ -27,7 +27,9 @@
 [Clumps 8.0.0+17](https://modrinth.com/mod/clumps/version/t18CfscF) | Группирует XP-орбы вместе | | Сервер
 [Connectivity 3.2](https://legacy.curseforge.com/minecraft/mc-mods/connectivity/files/3833738) | Исправляет множество сетевых ошибок и анализирует трафик | Cupboard 1.5 | Оба
 [Create 0.5.1.f](https://modrinth.com/mod/create/version/1.18.2-0.5.1.f) | Это Create | | Оба
+[Create Big Cannons 0.5.3.b](https://modrinth.com/mod/create-big-cannons/version/0.5.3.b) | Пушки на Create | Create 0.5.1.f | Оба
 [Create Crafts & Additions 1.0.0](https://modrinth.com/mod/createaddition/version/1.18.2-1.0.0) | Соединяет кинетическую энергию из Create с электрической | Create 0.5.1.f | Оба
+[Create Interactive 1.0.0-beta.2](https://modrinth.com/mod/interactive/version/kWf1zoZd) | Штуковины Create x Valkyrien Skies | Create 0.5.1.f, Valkyrien Skies 2.1.1-beta.5 | Оба
 [Create Power Loader 1.3.1](https://modrinth.com/mod/create-power-loader/version/1.3.1-mc1.18.2) | Добавляет прогрузчики чанков в Create | | Оба
 [CreativeCore 2.6.17](https://modrinth.com/mod/creativecore/version/2.6.17) | Библиотека CreativeMD | | Оба
 [CullLessLeaves Reforged 1.0.5](https://modrinth.com/mod/cull-less-leaves-reforged/version/1.18.2-1.0.5) | Пропускает прогрузку внутренних слоёв листвы | | Клиент
@@ -51,12 +53,13 @@ Fan-Made Discs 2.6.0 | Добавляет кастомные музыкальн�
 [GraveStone Mod 1.0.2](https://legacy.curseforge.com/minecraft/mc-mods/gravestone-mod/files/3713957) | Создаёт могилки при смерти | | Оба
 Industrial_ B3.99 | Технический мод с мемами | | Оба
 [Just Enough Items 10.2.1.1002](https://modrinth.com/mod/jei/version/k3W3h9cO) | Просмотр рецептов и предметов | | Оба
-[Just Enough Keg 3.0.1](https://legacy.curseforge.com/minecraft/mc-mods/just-enough-keg/files/3728454) | Совместимость между Drink Beer и JEI | Drink beer 1.0.9.5, JEI 10.2.1.1002 | Оба
+[Just Enough Keg 3.0.1](https://legacy.curseforge.com/minecraft/mc-mods/just-enough-keg/files/3728454) | Совместимость между Drink Beer и JEI | Drink Beer 1.0.9.5, JEI 10.2.1.1002 | Оба
 [Just Enough Mekanism Multiblocks 2.4](https://modrinth.com/mod/just-enough-mekanism-multiblocks/version/2.4) | Совместимость между JEI и многоблочными генераторами Mekanism | JEI 10.2.1.1002, Mekanism 10.2.5.465 | Оба
 [Just Enough Resources 0.14.2.206](https://modrinth.com/mod/just-enough-resources-jer/version/0.14.2.206) | Добавляет в JEI информацию о спавне руд | JEI 10.2.1.1002 | Оба
 [Just Vertical Slabs 4.0.0.0](https://legacy.curseforge.com/minecraft/mc-mods/just-vertical-slabs/files/4024190) | Вертикальные полублоки!! 0_o | | Оба
 [Just Zoom 1.0.2-1](https://modrinth.com/mod/just-zoom/version/1.0.2-1-1.18.2-forge) | Приближение на кнопку (Z по умолчанию) | Konkrete 1.6.1 | Клиент
 [Konkrete 1.6.1](https://modrinth.com/mod/konkrete/version/1.6.1-1.18-1.18.2-forge) | Библиотека для модов Keksuccino | | Клиент
+[Kotlin for Forge 3.12.0](https://modrinth.com/mod/kotlin-for-forge/version/3.12.0) | Библиотека для использования Kotlin в модах на Minecraft | | Оба
 [Lazy DFU 1.0](https://legacy.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3544496) | Оптимизация DataFixerUpper | | Клиент
 [Lodestone 1.4.2](https://legacy.curseforge.com/minecraft/mc-mods/lodestone/files/4631609) | Библиотека Lodestar Team | | Оба
 [Malum 1.5.0.1](https://legacy.curseforge.com/minecraft/mc-mods/malum/files/4631612) | Темно-магический мод, (СПОЙЛЕРЫ) | Curios API 5.0.9.2, Lodestone 1.4.2 | Оба
@@ -79,5 +82,6 @@ OOM Origins 1.4.1.1-unified | Версия Origins специально для �
 [Sophisticated Core 0.5.111.526](https://legacy.curseforge.com/minecraft/mc-mods/sophisticated-core/files/4993647) | Библиотека для Sophisticated Backpacks | | Оба
 [StateObserver 1.2.1](https://legacy.curseforge.com/minecraft/mc-mods/stateobserver/files/4793861) | Библиотека для наблюдения за изменениями состояния блоков | | Оба
 [Storage Drawers 10.2.1](https://legacy.curseforge.com/minecraft/mc-mods/storage-drawers/files/3807626) | Стильный мод на шкафы, в которых можно хранить предметы | | Оба
+[Valkyrien Skies 2.1.1-beta.5](https://modrinth.com/mod/valkyrien-skies/version/1.18.2-forge-2.1.1-beta.5) | Физический движок для Minecraft | Cloth Config API 6.5.102, Kotlin for Forge 3.12.0 | Оба
 [WTHIT 4.13.6](https://modrinth.com/mod/wthit/version/forge-4.13.6) | Мод на внутриигровую подсказку о блоке, на который смотрит игрок | bad packets 0.1.3 | Оба
 
