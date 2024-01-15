@@ -69,7 +69,7 @@ Industrial_ B3.99 | Технический мод с мемами | | Оба
 [Mekanism Generators 10.2.5.465](https://modrinth.com/mod/mekanism-generators/version/10.2.5.465) | Аддон на Mekanism, добавляющий генераторы энергии | Mekanism 10.2.5.465 | Оба
 [Mekanism Tools 10.2.5.465](https://modrinth.com/mod/mekanism-tools/version/10.2.5.465) | Аддон на Mekanism, добавляющий броню, щиты и инструменты | Mekanism 10.2.5.465 | Оба
 [Modern Online Picture Frames 13](https://modrinth.com/mod/modern-online-picture-frames/version/13) | Добавляет возможность вставлять изображения с интернета в рамки | Architectury API 4.11.93, CreativeCore 2.6.17 | Оба
-[MouseTweaks 2.22](https://modrinth.com/mod/mouse-tweaks/version/1.18-2.22-forge) | Маус твикс | | Оба
+[MouseTweaks 2.22](https://modrinth.com/mod/mouse-tweaks/version/1.18-2.22-forge) | Маус твикс | | Клиент
 [Oculus 1.6.4](https://modrinth.com/mod/oculus/version/1.18.2-1.6.4) | Форк Iris - мода на шейдеры | Embeddium 0.2.17 | Клиент
 OOM Origins 1.4.1.1-unified | Версия Origins специально для сервера OriginsOnMars. Origins - мод на расы, изменяющие геймплей Minecraft | Caelus API 3.0.0.2, Pehkui 3.7.9 | Оба
 [Patchouli 71.1](https://modrinth.com/mod/patchouli/version/1.18.2-71.1-forge) | Библиотека для внутриигровой документации | | Оба
