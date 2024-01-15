@@ -3,11 +3,11 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 6.6
+	modpackProjectID = 6.7
 	#The name of the modpack
 	modpackName = "OriginsOnMars"
 	#The version of the modpack
-	modpackVersion = "6.6"
+	modpackVersion = "6.7"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
